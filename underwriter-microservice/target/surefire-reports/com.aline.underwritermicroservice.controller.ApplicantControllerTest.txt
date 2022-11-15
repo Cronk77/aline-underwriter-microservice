@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.aline.underwritermicroservice.controller.ApplicantControllerTest
 -------------------------------------------------------------------------------
-Tests run: 59, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.982 s - in com.aline.underwritermicroservice.controller.ApplicantControllerTest
+Tests run: 59, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.616 s - in com.aline.underwritermicroservice.controller.ApplicantControllerTest
