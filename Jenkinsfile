@@ -71,7 +71,7 @@ pipeline{
                         image.push('latest')
                     }
                 }
-            }
+            }//
         }
         // stage("Deploy"){
         //     steps{
