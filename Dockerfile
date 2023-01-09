@@ -35,6 +35,6 @@ ENV APP_PORT=$APP_PORT
 
 # Run Program
 WORKDIR /app/
-COPY --from=build /aline-underwriter-microservice/underwriter-microservice/target/underwriter-microservice-0.1.0.jar underwriter_jar
+COPY --from=build /aline-underwriter-microservice/underwriter-microservice/target/underwriter-microservice-*.jar underwriter_jar
 EXPOSE ${APP_PORT}
 CMD java -jar underwriter_jar
